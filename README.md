@@ -4,3 +4,4 @@
 # Feature 1
 # Feature 2
 # Refactor 1
+# Refactor 2
